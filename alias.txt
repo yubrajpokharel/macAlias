@@ -1,0 +1,27 @@
+alias ga="git add"
+alias gap="git add -p"
+
+alias gc="git commit --verbose"
+alias gca="git commit -a --verbose"
+alias gcm="git commit -m"
+alias gcam="git commit -a -m"
+alias gm="git commit --amend --verbose"
+
+alias gd="git diff"
+alias gds="git diff --stat"
+alias gdc="git diff --cached"
+
+alias gs="git status -s"
+
+alias gco="git checkout"
+alias gcob="git checkout -b"
+
+alias gb="git branch"
+alias glog="git log"
+
+alias d="docker"
+alias dstart="docker start"
+alias dstop="docker stop"
+alias drestart="docker restart"
+alias dps="docker ps"
+alias dpsa="docker ps -a"
